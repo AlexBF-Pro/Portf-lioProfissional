@@ -2,8 +2,7 @@ name: CI-CD
 on: push
 
 jobs:
-
- lint:
+  lint:
     runs-on: ubuntu-latest
     steps: 
       - name: Install NodeJS
