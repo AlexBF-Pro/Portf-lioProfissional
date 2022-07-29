@@ -12,7 +12,7 @@ export default function Home() {
         <Function>Desenvolvedor FullStack / Administrador</Function>
         <Intro>Técnico em Programação - Javascript e Typescript.  
           Front-end e back-end (Full Stack) - Node, Express, noSQL, 
-          React, hooks, Redux, Design Patterns.
+          React, Design Patterns.
           Além disto boas práticas como Manisfesto Ágil, Scrum, 
           CICD-Pepiline, Git - Versionamento, Prettier, Lint.
         </Intro>
