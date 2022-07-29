@@ -8,11 +8,16 @@
 }
 
 body {
-  background-color: #121214;
+  background-image: url(../public/images/fundo.jpg);
+  background-size: 100%;
   color: white;
   text-align: -webkit-center;
 }
 
 a, button {
   cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
 }

@@ -27,7 +27,7 @@ export const Ul = styled.ul`
   &::-webkit-scrollbar {
     width: 12px;
     border-radius: 10px;
-    background-color: whitesmoke; 
+    background-color: whitesmoke;
   }
 
   &::-webkit-scrollbar-thumb {
