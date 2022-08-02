@@ -22,7 +22,7 @@ export default function Header() {
             Alex Barbosa
           </Title>
           <SubTitle>
-            Portfolio Pessoal
+            Portfólio Pessoal
           </SubTitle>
         </ContentTitle>
         <Menu>

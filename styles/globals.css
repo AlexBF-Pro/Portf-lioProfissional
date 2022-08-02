@@ -20,4 +20,5 @@ a, button {
 
 a:hover {
   text-decoration: underline;
+  filter: brightness(2.0);
 }

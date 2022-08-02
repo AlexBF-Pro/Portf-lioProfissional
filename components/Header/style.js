@@ -17,7 +17,9 @@ export const Content = styled.div`
 `;
 
 export const Title = styled.div`
-  font-size: 30px;
+  font-size: 33px;
+  font-weight: bold;
+  color: greenyellow;
 `;
 
 export const NavLinks = styled.nav`
@@ -48,8 +50,11 @@ export const NavLinks = styled.nav`
 
 export const Ancora = styled.a`
   font-size: 20px;
+  font-weight: bold;
   height: 100px;
+  text-transform: uppercase;
   transition: 0.3s;
+  color: yellowgreen;
   
   &.active {
     background-color: black;
@@ -89,4 +94,8 @@ export const ContentTitle = styled.div`
   text-align: end;
 `;
 
-export const SubTitle = styled.span``;
+export const SubTitle = styled.span`
+font-size: 20px;
+font-weight: bold;
+color: greenyellow;
+`;
