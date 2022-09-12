@@ -13,7 +13,7 @@ export const Content = styled.div`
   justify-content: center;
   display: flex;
   align-items: center;
-  padding: 21px;
+  padding: 20px;
 
   @media (max-width: 600px) {
     padding: 5px;

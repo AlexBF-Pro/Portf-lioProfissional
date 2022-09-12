@@ -8,7 +8,7 @@ export default function Projects() {
     let abortController = new AbortController(); 
 
     function getGitHubAPI() {
-      fetch('https://api.github.com/users/AlexBF-Pro/repos')
+      fetch('https://api.github.com/users/alexfirmiano/repos')
       .then(async res => {
         if (!res.ok) {
           throw new Error(res.status)
